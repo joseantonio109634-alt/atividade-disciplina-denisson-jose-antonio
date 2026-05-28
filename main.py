@@ -19,7 +19,7 @@ while True:
             print("-", aluno)
 
     elif opcao == "3":
-        print("Saindo...")
+        print("Encerrando o programa...")
         break
 
     else:
