@@ -1,4 +1,4 @@
-alunos[]
+alunos =[]
 
 while True:
     print("\n=== Menu ===")
@@ -21,6 +21,6 @@ while True:
     elif opcao == "3":
         print("Saindo...")
         break
-    
+
     else:
         print("Opção inválida. Tente novamente.")
